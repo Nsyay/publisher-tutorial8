@@ -5,3 +5,7 @@
 
 #### running RabbitMQ
 ![alt text](image.png)
+
+#### sending and processing event
+![alt text](image-1.png)
+![alt text](image-2.png)
