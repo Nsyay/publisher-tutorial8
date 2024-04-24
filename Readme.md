@@ -9,3 +9,6 @@
 #### sending and processing event
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+#### monitoring chart
+![alt text](image-3.png)
