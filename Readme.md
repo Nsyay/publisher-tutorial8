@@ -9,6 +9,8 @@
 #### sending and processing event
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+menunjukkan kondisi pengiriman dan pemrosesan event yaitu pengiriman message queue ketika publisher di run. Subscriber yang sedang terhubung menangkap message tersebut dan mencetaknya di terminal
 
 #### monitoring chart
 ![alt text](image-3.png)
+terdapat spike pada chat yang menandakan terjadinya event pada interval waktu spike tersebut terbentuk
